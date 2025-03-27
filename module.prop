@@ -1,7 +1,6 @@
-id=magisk-autoboot
-name=Magisk Autoboot
-version=v2.0.0
-author=anasfanani
-description=Enables the device to automatically booting after a USB/Charger connection is detected.
-updateJson=https://raw.githubusercontent.com/anasfanani/magisk-autoboot/master/update.json
-changeBoot=true
+id=hotspot_boot_airplane
+name=Hotspot Always On (Boot + Airplane Mode)
+version=1.0
+versionCode=1
+author=ChatGPT
+description=Automatically enables hotspot on boot and keeps it on even in Airplane Mode.
